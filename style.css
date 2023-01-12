@@ -1,0 +1,23 @@
+
+    h2{color: brown;}
+    #Mediiationlist{color: blue;}
+    h3{color: olive;}
+    #div1{background-color:yellowgreen;}
+    #div2{background-color: pink;}
+    form
+    {
+        padding: 20px;
+        background-color: whitesmoke;
+        font-style: normal;
+        border-style: solid;
+    }
+    input [type=button] {
+        color:black;
+        background-color: white;
+    }
+    
+    a:hover { color: red;
+}
+
+
+    
